@@ -25,3 +25,6 @@ The two_level_scheduling function takes a list of Process objects as input and r
 The no of processes to be processed are determined by the user. It is done through the input taken at the start of the program.
 Finally, the code generates a list of random processes and prints their attributes. It calls the two_level_scheduling function to execute the processes and prints the names of completed processes.
 
+
+C CODE OUTPUT SNAPSHOT
+![image](https://user-images.githubusercontent.com/91831558/235073657-befd3101-7895-43ce-8edb-806e5512690b.png)
