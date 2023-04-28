@@ -27,4 +27,5 @@ Finally, the code generates a list of random processes and prints their attribut
 
 
 C CODE OUTPUT SNAPSHOT
+
 ![image](https://user-images.githubusercontent.com/91831558/235073657-befd3101-7895-43ce-8edb-806e5512690b.png)
